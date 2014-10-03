@@ -41,6 +41,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="requirements.txt" />
+    <Content Include="templates\404.html" />
+    <Content Include="templates\500.html" />
+    <Content Include="templates\base.html" />
     <Content Include="templates\index.html" />
     <Content Include="templates\user.html" />
   </ItemGroup>
