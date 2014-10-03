@@ -46,7 +46,6 @@
     <Content Include="templates\500.html" />
     <Content Include="templates\base.html" />
     <Content Include="templates\index.html" />
-    <Content Include="templates\user.html" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="static\" />
